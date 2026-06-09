@@ -1,4 +1,4 @@
-# 
+# Instantané TreeSize préréglages pour Mac OS | Personnalisé TreeSize préréglages pour PC Windows. Avec support en ligne de commande et sauvegarde de données — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
